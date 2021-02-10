@@ -11,7 +11,7 @@ If you have cloned this repository and want to run this analysis from
 scratch first run erase\_all\_outputs.R script and then run Main.R
 script o whichever script you want.
 
-The image folder contains images that I’ve used on this presentation.
+The image folder contains images that I’ve used on this presentation: [Simple Linear Regression Applied to Quantification](https://github.com/jpch26/Simple-Linear-Regression-Applied-to-Quantification/blob/main/Simple%20Linear%20Regression%20Applied%20to%20Quantification.md).
 
 Juan Pablo Carreón Hidalgo
 
