@@ -14,10 +14,6 @@ source("analysis/data_simulation.R")
 
 source("analysis/linear_regression.R")
 
-# 3 Source presentation document. You need 'rmarkdown' package
-
-rmarkdown::render("presentation_github.Rmd", output_file = "README")
-
 # 4 Session info
 
 capture.output(sessionInfo(), file = "Session_Info.txt")
