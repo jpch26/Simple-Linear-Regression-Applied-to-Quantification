@@ -11,7 +11,7 @@ If you have cloned this repository and want to run this analysis from
 scratch first run erase\_all\_outputs.R script and then run Main.R
 script o whichever script you want.
 
-You can the presentation for this tutorial by cliking on: [Simple Linear Regression Applied to Quantification](https://r-in-the-lab.netlify.app/1/01/01/simple-linear-regression-applied-to-quantification/).
+You can the presentation for this tutorial by cliking on: [Simple Linear Regression Applied to Quantification](https://r-in-the-lab.netlify.app/2021/02/01/simple-linear-regression-applied-to-quantification/).
 
 Juan Pablo Carreón Hidalgo
 
